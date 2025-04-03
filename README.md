@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussamaelazhari&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eoussama8&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ## 🚀 Featured Projects  
@@ -41,7 +41,7 @@
 
 ## 🔥 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaelazhari&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoussama8&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🎯 Let's Collaborate!  
