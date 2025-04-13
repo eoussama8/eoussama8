@@ -61,28 +61,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🚀 Featured Projects
-
-<div align="center">
-<a href="https://github.com/eoussama8/TaxiMeter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eoussama8&repo=TaxiMeter&theme=tokyonight" />
-</a>
-<a href="https://github.com/eoussama8/WaterApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eoussama8&repo=WaterApp&theme=tokyonight" />
-</a>
-<a href="https://github.com/eoussama8/foodApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eoussama8&repo=foodApp&theme=tokyonight" />
-</a>
-</div>
-
-### 📱 Taxi Counter App
-Real-time location tracking application with fare calculation features, built with Kotlin and Jetpack Compose.
-
-### 💧 Hydration Tracker
-A health-focused app that helps users track daily water intake and set personalized reminders.
-
-### 🎬 Movie Stars App
-Interactive platform to discover, rate, and review movies and actors, featuring a clean UI and user ratings.
 
 ## 📫 Let's Connect!
 
