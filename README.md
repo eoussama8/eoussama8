@@ -70,12 +70,5 @@ I'm always interested in collaborating on exciting projects or discussing new te
 - 📧 **Email**: [elazhari.oussama12@gmail.com](mailto:elazhari.oussama12@gmail.com)
 - 🌐 **GitHub**: [eoussama8](https://github.com/eoussama8)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eoussama8&theme=tokyonight&column=7" alt="GitHub Trophies" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eoussama8&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
 
 <p align="center">⭐️ From <a href="https://github.com/eoussama8">Oussama Elazhari</a></p>
