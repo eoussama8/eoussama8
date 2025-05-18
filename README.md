@@ -1,20 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm OUSSAMA ELAZHARI</h1>
 <h3 align="center">🚀 Full-Stack Developer | Mobile Specialist | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oussamaelazhari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://linkedin.com/in/oussama-elazhari-587637280/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:elazhari.oussama12@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eoussama8&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eoussama8&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
 ## 💫 About Me
 
