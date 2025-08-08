@@ -5,7 +5,6 @@
 ## 💫 About Me
 
 - 👨‍💻 Currently working on **Android apps with Jetpack Compose**
-- 🌱 Expanding my knowledge in **Cybersecurity & Blockchain Development**
 - 🔭 Building robust **Web Applications** with modern frameworks
 - 💬 Ask me about **Mobile Development, React, Laravel, or Node.js**
 - ⚡ Fun fact: I love exploring new technologies and contributing to open-source
